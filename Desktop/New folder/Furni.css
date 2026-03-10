@@ -1,0 +1,98 @@
+:root {color:#3b5d50;
+    color: #f8b810;
+
+} 
+body {
+    font-family: "Inter", sans-serif;
+height: 10000px;
+}
+/* start navbar  */
+.navbar{background-color:#3b5d50;
+
+}
+.navbar .navbar-nav .nav-link {
+color: white;
+}
+.navbar-brand{color: white;
+    font-size: 30px;
+
+}
+  .navbar .navbar-nav .nav-link :active
+.navbar .navbar-nav .nav-link :focus  
+.navbar .navbar-nav .nav-link :hover{
+    color:#f8b810;
+
+}
+/* .landing{
+   background-color: #3b5d50 ; */
+
+.navbar .navbar-nav .nav-underline{
+    color:#f8b810;}
+
+    .landing-container {
+        background-color: #3b5d50 ;
+        min-height: 100vh;
+       
+      }
+      .landing-text {
+        color: white;
+        
+        padding-right: 30px;
+      }
+      .landing-text h1{
+        font-weight: bold;
+      }
+      .landing-image img {
+        max-width: 100%;
+        height: auto;}
+        .btn-light {
+           background-color: #3b5d50;
+           color:white
+        }
+        .btn-light :hover {background-color:#f8b810 }
+.btn-light active{
+    background-color:#f8b810
+}
+strong{
+    text-align: center;
+}
+
+
+.image-container {
+  position: relative;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.image-container .img3 {
+  position: absolute;
+  top: 20;
+  left: 20;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+}
+span{
+  color: black;
+}
+.text-muted{
+  text-decoration: none;
+}
+img{
+  border-radius: 5px;
+}
+.btn btn-primary{
+  background-color: #3b5d50;
+}
+.carousel-item img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;}
+  div i :hover{
+    background-color:#3b5d50
+  }
+ 
